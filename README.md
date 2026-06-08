@@ -1,16 +1,25 @@
-# React + Vite
+# Frontend Shopping Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive e-commerce frontend application built using ReactJS, JavaScript, HTML, and CSS.
 
-Currently, two official plugins are available:
+## Features
+- Product listing and browsing
+- Shopping cart functionality
+- Responsive design for mobile and desktop
+- React Router for navigation
+- Reusable React components
+- Modern and user-friendly interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Technologies Used
+- ReactJS
+- JavaScript
+- HTML5
+- CSS3
+- React Router
+- Git & GitHub
 
-## React Compiler
+## Getting Started
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository
+```bash
+git clone <repository-url>
